@@ -1,2 +1,2 @@
 # mygame
-i love game so ,i decide make a game for myself
+i love game ,i decide make a game for myself
